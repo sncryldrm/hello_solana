@@ -1,0 +1,12 @@
+/node_modules
+*.sw[po]
+/.cargo
+/dist
+.env
+src/client/util/store
+test-ledger/
+
+
+# Added by cargo
+
+/target
